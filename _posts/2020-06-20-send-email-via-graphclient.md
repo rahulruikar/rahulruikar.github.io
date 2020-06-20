@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Email Communication using MS GraphClient C# SDK"
+title: "Send email using MS GraphClient C# SDK"
 ---
